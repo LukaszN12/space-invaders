@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "PowerShell(winget --version 2>&1)"
+    ]
+  }
+}
